@@ -1,0 +1,12 @@
+figure.facecolor : None
+axes.titlesize : 20
+axes.labelsize : 12
+axes.facecolor : [1, 1, 1]
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : 12
+ytick.labelsize : 12
+xtick.direction : 'out'
+ytick.direction : 'out'
+xtick.major.width : 1
+ytick.major.width : 1
