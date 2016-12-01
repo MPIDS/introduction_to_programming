@@ -1,0 +1,7 @@
+1. Start with writing code, that can iteratively read the provided ecgs. (helpful: os.listdir, np.load)
+2. Plot some of the signals to get an impression
+3. Write a function that computes the fourier spectrum/ power spectrum of a signal (helpful: np.fft.rfft, np.fft.rfftfreq, powerspectrum = abs(fft)**2)
+4. Plot some of the spectra.
+5. Try to use the dominant frequency (highest peak in the power spectrum) as a classifier for the different types (only considere frequencies between 3 and 25 Hz)
+6. Try the spectral entropy as a classifier.
+
