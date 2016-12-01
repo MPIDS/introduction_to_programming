@@ -4,4 +4,4 @@
 4. Plot some of the spectra.
 5. Try to use the dominant frequency (highest peak in the power spectrum) as a classifier for the different types (only considere frequencies between 3 and 25 Hz)
 6. Try the spectral entropy as a classifier.
-
+7. Plot histograms of single classes. (E.g. a histogram of the dominant frequencies of VFs)
