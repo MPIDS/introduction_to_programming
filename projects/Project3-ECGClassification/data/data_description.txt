@@ -1,0 +1,3 @@
+The files [VTs.npy, VFs.npy, NSRs.npy, broken.npy] were saved using numpy and contain filenames of files with the respective arrhythmia type.
+
+classified_data.p is a pandas dataframe saved with to_pickle and contains all the information of the above mentioned files (1=VF, 2=VT, 3=NSR, 4=broken].
